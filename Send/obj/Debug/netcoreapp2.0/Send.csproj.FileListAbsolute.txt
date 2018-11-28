@@ -1,0 +1,11 @@
+/Users/five/_code/rabbitmq/Send/bin/Debug/netcoreapp2.0/Send.deps.json
+/Users/five/_code/rabbitmq/Send/bin/Debug/netcoreapp2.0/Send.runtimeconfig.json
+/Users/five/_code/rabbitmq/Send/bin/Debug/netcoreapp2.0/Send.runtimeconfig.dev.json
+/Users/five/_code/rabbitmq/Send/bin/Debug/netcoreapp2.0/Send.dll
+/Users/five/_code/rabbitmq/Send/bin/Debug/netcoreapp2.0/Send.pdb
+/Users/five/_code/rabbitmq/Send/obj/Debug/netcoreapp2.0/Send.csprojAssemblyReference.cache
+/Users/five/_code/rabbitmq/Send/obj/Debug/netcoreapp2.0/Send.csproj.CoreCompileInputs.cache
+/Users/five/_code/rabbitmq/Send/obj/Debug/netcoreapp2.0/Send.AssemblyInfoInputs.cache
+/Users/five/_code/rabbitmq/Send/obj/Debug/netcoreapp2.0/Send.AssemblyInfo.cs
+/Users/five/_code/rabbitmq/Send/obj/Debug/netcoreapp2.0/Send.dll
+/Users/five/_code/rabbitmq/Send/obj/Debug/netcoreapp2.0/Send.pdb

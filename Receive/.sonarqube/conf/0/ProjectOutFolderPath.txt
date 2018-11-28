@@ -1,0 +1,1 @@
+/Users/five/_code/rabbitmq/Receive/.sonarqube/out/0
