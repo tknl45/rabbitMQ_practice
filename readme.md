@@ -1,4 +1,5 @@
 # test rabbit
+
 ## using docker
 
 #### 拉下最新docker rabbitmq
@@ -25,7 +26,31 @@
 > docker logs rabbit
 
 
-# 執行 SonarQube
+## 資料夾說明
+
+`Send` 送出queue
+
+`Receive` 接收queue
+
+`ConsumerServer` 常駐接收服務
+
+## 參考資料
+
+官網
+
+https://www.rabbitmq.com/getstarted.html
+
+中文說明
+
+https://ithelp.ithome.com.tw/articles/10195129
+
+
+
+
+
+
+
+## 執行 SonarQube
 ref. https://oomusou.io/sonarqube/netcore-docker/
 
 > docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
